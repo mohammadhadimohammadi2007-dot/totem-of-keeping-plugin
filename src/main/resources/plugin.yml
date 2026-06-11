@@ -1,0 +1,20 @@
+
+name: TotemOfKeeping
+version: 1.2
+main: startrealms.cc.totemofkeeping.Totemofkeeping
+api-version: 1.21
+
+permissions:
+  rank.sponsor:
+    description: Sponsor rank permission
+    default: false
+commands:
+  totemgive:
+    description: Give Totem of Keeping
+    usage: /totemgive <player> [amount]
+    permission: totem.admin
+
+  totemreload:
+    description: Reload plugin config
+    usage: /totemreload
+    permission: totem.admin

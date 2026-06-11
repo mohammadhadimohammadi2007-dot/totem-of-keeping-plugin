@@ -1,0 +1,7 @@
+drop-chance: 0.4
+cooldown: 1800
+end-only: false
+
+messages:
+  received: "§aYou received a Totem of Keeping!"
+  activated: "§dYour Totem of Keeping saved your inventory!"
