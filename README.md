@@ -4,14 +4,6 @@ A PvP-focused Minecraft Paper plugin that introduces a custom **Totem of Keeping
 
 ---
 
-## 📸 Preview
-
-<!-- Replace with your own GIF or screenshot -->
-
-![Demo](https://via.placeholder.com/800x400?text=Totem+of+Keeping+Demo)
-
----
-
 ## ✨ Features
 
 ### ⚔️ PvP-Based Mechanics
